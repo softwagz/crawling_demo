@@ -1,0 +1,26 @@
+{
+    "options": {
+        "headless": false
+    },
+    "browser": {
+        "width": 1200,
+        "height": 800
+    },
+    "url": "https://www.gigabyte.com/co/Graphics-Card",
+    "network_config": {
+        "waitUntil": "networkidle0"
+    },
+    "selectors": {
+        "search_icon": "#header-bar > div:nth-of-type(2) > div > div:nth-of-type(5) > div > div:nth-of-type(4) > img:first-of-type",
+        "input_search": "#full-search-keyword",
+        "frase_para_baby": "Bienvenido a crear un Both usando Puppeteer",
+        "frase_para_baby2": "los boths son utiles para hacer tareas sobre sitios webs",
+        "frase_para_baby3": "permite establecer una secuencia de pasos dentro de una pagina",
+        "frase_para_baby4": "podria ser buscar algo...",
+        "frase_para_baby5": "AMD Ryzen",
+        "frase_para_baby6": "Intel Core 9",
+        "frase_para_baby7": "entre otras cosas mas",
+        "frase_para_baby8": "solo tengo algo que decir",
+        "frase_para_baby9": "Es broma, jajajaj... espero te haya gustado la demostracion"
+    }
+}
